@@ -2,6 +2,10 @@
 
 A focused evaluation of DeepSeek-R1-Distill-Llama-8B on a simple counting task: "How many R's are in 'strawberry'?"
 
+## Details of the evaluation
+
+Everything is in the notebook [eval_r1_8b.ipynb](eval_r1_8b.ipynb)
+
 ## Results
 
 - 103 total responses analyzed
